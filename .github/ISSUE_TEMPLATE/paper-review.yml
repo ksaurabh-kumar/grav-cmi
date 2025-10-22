@@ -1,0 +1,29 @@
+name: "Paper Review"
+description: "Propose a paper for discussion and summarize key points"
+title: "Paper: <Author Year> <Title>"
+labels: [reading-group]
+body:
+  - type: input
+    id: citation
+    attributes:
+      label: Citation
+      description: Full citation or BibTeX key
+      placeholder: "Author et al. (Year), Title"
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: "https://arxiv.org/abs/..."
+  - type: textarea
+    id: summary
+    attributes:
+      label: 3–5 sentence summary
+  - type: textarea
+    id: takeaways
+    attributes:
+      label: 1–3 takeaways
+  - type: textarea
+    id: questions
+    attributes:
+      label: Discussion questions
+
