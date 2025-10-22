@@ -20,9 +20,9 @@
 ---
 
 ## This Week at a Glance
-- **Meeting date:** _YYYY-MM-DD_
+- **Meeting date:** 21-10-2025
 - **Focus topic:** _e.g., Higher modes in BBH; LISA Doppler phasing_
-- **Presenter(s):** _@name_
+- **Presenter(s):** VIncent
 - **Decisions expected:** _yes/no + bullets_
 - **Hard deadlines:** _list key ones for the week_
 
