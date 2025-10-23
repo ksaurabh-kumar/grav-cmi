@@ -1,6 +1,6 @@
 **Grav@CMI Hub**
 - [Home](./)
-- [Upcoming Meeting Agenda](./Upcoming-Meeting-Agenda)
+- [Upcoming Meeting Agenda](./Upcoming-Meeting-Agenda.md)
 - **Past Meetings**
   - [Archive Index](./Past-Meetings)
   - 2025
